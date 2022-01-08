@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_infantry_spearman">
+   <Auras datatype="tokens">
+    units/heroes/maya_white_owl_jaguar
+   </Auras>
+  <Identity>
+    <Civ>maya</Civ>
+    <GenericName>Ajaw White Owl Jaguar</GenericName>
+    <SpecificName>Ajaw White Owl Jaguar</SpecificName>
+    <Icon>units/maya_whiteowl.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/maya/hero_infantry_spearman_king3.xml</Actor>
+  </VisualActor>
+</Entity>

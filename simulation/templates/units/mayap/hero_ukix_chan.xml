@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_infantry_spearman">
+   <Auras datatype="tokens">
+    units/heroes/maya_ukix_chan
+  </Auras>
+  <Identity>
+    <Civ>maya</Civ>
+    <GenericName>Ajaw Uk'ix Chan</GenericName>
+    <SpecificName>Ajaw Uk'ix Chan</SpecificName>
+    <Icon>units/maya_ukix.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/maya/hero_infantry_spearman_king.xml</Actor>
+  </VisualActor>
+</Entity>
