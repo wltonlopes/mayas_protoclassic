@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military_forge">
+  <Identity>
+    <Civ>maya</Civ>
+    <GenericName>Armeiro</GenericName>
+    <SpecificName>K'al pibil</SpecificName>
+  </Identity>
+  <VisualActor>
+    <Actor>structures/maya/blacksmith.xml</Actor>
+  </VisualActor>
+</Entity>

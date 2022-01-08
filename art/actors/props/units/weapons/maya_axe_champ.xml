@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="10" name="Base">
+      <textures>
+        <texture file="structural/maya_struct.png" name="baseTex"/>
+        <texture file="structural/maya_struct_spec.png" name="specTex"/>
+        <texture file="structural/maya_struct_norm.png" name="normTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="akin">
+      <mesh>props/weapon/spear_mace_maya.dae</mesh>
+    </variant>
+	<variant frequency="2" name="a2">
+      <mesh>props/weapon/maya_mace_obsidian.dae</mesh>
+    </variant>
+  </group>
+  <material>basic_trans_parallax_spec.xml</material>
+</actor>

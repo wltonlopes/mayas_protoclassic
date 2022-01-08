@@ -1,0 +1,9 @@
+{
+	"name": "maias 0ad",
+	"label": "maias ANd Epi maias",
+	"version": "1.0.0",
+	"url": "https://github.com/0ADMods/maias",
+	"description": "Add maias to 0 A.D.",
+	"dependencies": ["0ad=0.0.25"],
+	"type": "civ"
+}
