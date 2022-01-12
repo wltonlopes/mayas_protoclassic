@@ -3,7 +3,6 @@
   <castshadow/>
   <group>
     <variant frequency="1" name="biped/base_skirmisher.xml">
-      <mesh>skeletal/new/m_naked.dae</mesh>
       <props>
         <prop actor="props/units/heads/head_maya_basic.xml" attachpoint="head"/>
         <prop actor="props/units/helmets/headband_color.xml" attachpoint="helmet"/>
@@ -13,16 +12,18 @@
       </props>
     </variant>
   </group>
-   <group>
-     <variant frequency="1" name="a">
+  <group>
+    <variant frequency="1" name="a">
+      <mesh>skeletal/new/m_tunic_maya_variant_short.dae</mesh>
       <textures>
-        <texture file="skeletal/maya_b_1.png" name="baseTex"/>
+        <texture file="skeletal/mayas/maya_javelineer_b_1.png" name="baseTex"/>
         <texture file="skeletal/maya_isl_a_spec.png" name="specTex"/>
       </textures>
     </variant>
   <variant frequency="1" name="b">
+      <mesh>skeletal/new/m_tunic_maya.dae</mesh>
       <textures>
-      <texture file="skeletal/maya_b_1.png" name="baseTex"/>
+      <texture file="skeletal/mayas/maya_javelineer_b_2.png" name="baseTex"/>
         <texture file="skeletal/maya_isl_a_spec.png" name="specTex"/>
       </textures>
     </variant>
