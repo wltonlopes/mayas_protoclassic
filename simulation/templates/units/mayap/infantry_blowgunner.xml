@@ -2,7 +2,7 @@
 <Entity parent="template_unit_infantry_ranged_blowgunner">
   <Identity>
     <Civ>maya</Civ>
-    <SelectionGroupName>units/maya/blowgunner</SelectionGroupName>
+    <SelectionGroupName>units/maya_protoclassic/blowgunner</SelectionGroupName>
     <VisibleClasses datatype="tokens">Hunterblowgunner</VisibleClasses>
     <GenericName>Maya blowgunner hunter</GenericName>
     <SpecificName>A'nab</SpecificName>
@@ -13,6 +13,6 @@
     <Category>Hunterblowgunner</Category>
   </TrainingRestrictions>
   <VisualActor>
-    <Actor>units/maya/infantry_blowgunner.xml</Actor>
+    <Actor>units/maya_protoclassic/infantry_blowgunner.xml</Actor>
   </VisualActor>
 </Entity>

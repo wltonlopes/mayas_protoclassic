@@ -12,9 +12,9 @@
     <SpecificName>ixik</SpecificName>
     <GenericName>Maya Woman</GenericName>
     <Icon>units/maya_woman.png</Icon>
-    <SelectionGroupName>units/maya/support_female_citizen</SelectionGroupName>
+    <SelectionGroupName>units/maya_protoclassic/support_female_citizen</SelectionGroupName>
   </Identity>
   <VisualActor>
-    <Actor>units/maya/female_citizen.xml</Actor>
+    <Actor>units/maya_protoclassic/female_citizen.xml</Actor>
   </VisualActor>
 </Entity>

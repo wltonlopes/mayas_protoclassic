@@ -10,6 +10,6 @@
     <Icon>units/maya_whiteowl.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/maya/hero_infantry_spearman_king3.xml</Actor>
+    <Actor>units/maya_protoclassic/hero_infantry_spearman_king3.xml</Actor>
   </VisualActor>
 </Entity>

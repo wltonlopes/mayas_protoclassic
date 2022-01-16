@@ -11,6 +11,6 @@
     <Icon>units/maya_merchant.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>structures/maya/canoe_merchant.xml</Actor>
+    <Actor>structures/maya_protoclassic/canoe_merchant.xml</Actor>
   </VisualActor>
 </Entity>

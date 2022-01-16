@@ -10,6 +10,6 @@
     <Icon>units/maya_ukix.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/maya/hero_infantry_spearman_king.xml</Actor>
+    <Actor>units/maya_protoclassic/hero_infantry_spearman_king.xml</Actor>
   </VisualActor>
 </Entity>

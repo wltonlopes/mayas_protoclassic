@@ -6,6 +6,6 @@
     <Icon>units/iber_support_trader.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/maya/trader.xml</Actor>
+    <Actor>units/maya_protoclassic/trader.xml</Actor>
   </VisualActor>
 </Entity>
