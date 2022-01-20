@@ -3,7 +3,7 @@
   <castshadow/>
   <group>
     <variant file="biped/base_spearman_shield_relax_fast.xml">
-      <mesh>skeletal/new/m_armor_tunic_short_maya.dae</mesh>
+      <mesh>skeletal/new/m_tunic_maya_variant_short.dae</mesh>
       <props>
         <prop actor="props/units/heads/head_maya_king.xml" attachpoint="head"/>
 	<prop actor="props/units/helmets/maya_king.xml" attachpoint="helmet"/>
@@ -18,7 +18,7 @@
   <group>
     <variant frequency="100" name="spearman">
       <textures>
-        <texture file="skeletal/maya_isl_h_1.png" name="baseTex"/>
+        <texture file="skeletal/mayas/king1.png" name="baseTex"/>
 	 <texture file="skeletal/maya_padded_spec.png" name="specTex"/>
       </textures>
     </variant>
