@@ -6,7 +6,7 @@
       <props>
         <prop actor="props/units/heads/head_maya_basic.xml" attachpoint="head"/>
 	    <prop actor="props/units/helmets/maya_b_c.xml" attachpoint="helmet"/>
-         <prop actor="props/units/weapons/blowgunner.xml" attachpoint="weapon_R"/>
+         <prop actor="props/units/weapons/zarabatana_a.xml" attachpoint="weapon_R"/>
       </props>
     </variant>
   </group>
