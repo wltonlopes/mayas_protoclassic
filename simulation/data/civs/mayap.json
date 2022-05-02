@@ -1,9 +1,6 @@
 ﻿{
 	"Code": "mayap",
 	"Culture": "mayap",
-	"Name": "Mayas Protoclassic",
-	"Emblem": "session/portraits/emblems/emblem_maya.png",
-	"History": "The Protoclassic period in Maya history stretches from the beginning of permanent village life c. 1000 BC until the advent of the Classic Period c. 250 AD, and is subdivided into Early (prior to 1000 BC), Middle (1000–400 BC), and Late (400 BC – 250 AD). Major archaeological sites of this period include Nakbe, Uaxactun, Seibal, San Bartolo, Cival, and El Mirador.Maya society underwent a series of profound transformations between c. 100 AD and 250 AD, which resulted in the cessation of monumental building at many Preclassic cities and the inferred collapse of their political and economic systems, often characterized as the 'Preclassic Collapse'",
 	"Music":[
 			{"File":"Old New World.ogg", "Type":"peace"},
 			{"File":"Cloud_People.ogg", "Type":"peace"},
@@ -103,8 +100,7 @@
 	],
 	"WallSets":
 	[
-		"other/wallset_palisade",
-		"structures/mayap/wallset_stone"
+		"other/wallset_palisade"
 	],
 	"StartEntities":
 	[
@@ -127,19 +123,6 @@
 			"Template": "units/mayap/infantry_blowgunner",
 			"Count": 1
 		}
-	],
-	"Formations":
-	[
-		"special/formations/null",
-		"special/formations/box",
-		"special/formations/column_closed",
-		"special/formations/line_closed",
-		"special/formations/column_open",
-		"special/formations/line_open",
-		"special/formations/flank",
-		"special/formations/skirmish",
-		"special/formations/wedge",
-		"special/formations/battle_line"
 	],
 	"AINames":
 	[

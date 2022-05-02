@@ -13,6 +13,6 @@
     <Category>Hunterblowgunner</Category>
   </TrainingRestrictions>
   <VisualActor>
-    <Actor>units/maya_protoclassic/infantry_blowgunner.xml</Actor>
+    <Actor>units/maya_protoclassic/infantry_blowgunner_b.xml</Actor>
   </VisualActor>
 </Entity>

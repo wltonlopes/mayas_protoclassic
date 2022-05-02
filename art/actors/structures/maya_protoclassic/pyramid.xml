@@ -8,7 +8,13 @@
       <variant frequency="100" name="2">
       <mesh>structural/maya_protoclassic/piramide_2.dae</mesh>
     </variant>
-  </group>
+    <variant frequency="100" name="3">
+      <mesh>structural/maya_protoclassic/piramide_3.dae</mesh>
+    </variant>
+    <variant frequency="100" name="4">
+      <mesh>structural/maya_protoclassic/piramide_4.dae</mesh>
+    </variant>
+  </group>  
   <group>
     <variant frequency="100" name="Base">
       <props>
