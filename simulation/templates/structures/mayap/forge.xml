@@ -6,6 +6,6 @@
     <SpecificName>K'al pibil</SpecificName>
   </Identity>
   <VisualActor>
-    <Actor>structures/maya_protoclassic/blacksmith.xml</Actor>
+    <Actor>structures/maya_protoclassic/forge.xml</Actor>
   </VisualActor>
 </Entity>

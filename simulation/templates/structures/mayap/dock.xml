@@ -14,10 +14,10 @@
   </Obstruction>
   <Researcher>
     <Technologies datatype="tokens">
-      -ship_cost_time
+      <!-- -ship_cost_time
       -ship_health
       -ship_movement_speed
-      -equine_transports
+      -equine_transports -->
     </Technologies>
   </Researcher>
   <Trainer>

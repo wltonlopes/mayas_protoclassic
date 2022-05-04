@@ -31,7 +31,7 @@
     </Entities>
   </Trainer>
   <VisualActor>
-    <Actor>structures/maya_protoclassic/corral_n.xml</Actor>
+    <Actor>structures/maya_protoclassic/corral.xml</Actor>
     <FoundationActor>structures/fndn_3x3.xml</FoundationActor>
   </VisualActor>
 </Entity>
