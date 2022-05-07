@@ -52,7 +52,7 @@
     </Entities>
   </Trainer>
   <VisualActor>
-    <Actor>structures/maya_protoclassic/temple_of_masks.xml</Actor>
+    <Actor>structures/maya_protoclassic/templomaior.xml</Actor>
     <FoundationActor>structures/fndn_8x9.xml</FoundationActor>
   </VisualActor>
    <Vision>

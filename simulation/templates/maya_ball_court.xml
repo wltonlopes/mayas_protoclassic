@@ -19,7 +19,7 @@
     <Max>2500</Max>
   </Health>
   <Identity>
-    <Civ>maya</Civ>
+    <Civ>mayap</Civ>
     <Classes datatype="tokens">ConquestCritical</Classes>
     <GenericName>Temple of masks</GenericName>
     <SpecificName>Noj witz</SpecificName>

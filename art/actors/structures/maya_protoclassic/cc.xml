@@ -2,13 +2,13 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant frequency="100" name="1">
+    <variant frequency="33" name="cc1">
       <mesh>structural/maya_protoclassic/cc_1.dae</mesh>
     </variant>
-      <variant frequency="100" name="2">
+      <variant frequency="33" name="cc2">
       <mesh>structural/maya_protoclassic/cc_2.dae</mesh>
     </variant>
-      <variant frequency="100" name="3">
+      <variant frequency="33" name="cc3">
       <mesh>structural/maya_protoclassic/cc_3.dae</mesh>
     </variant>
   </group>

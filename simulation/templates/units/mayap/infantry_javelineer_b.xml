@@ -2,9 +2,9 @@
 <Entity parent="template_unit_infantry_ranged_javelineer">
   <Builder>
     <Entities datatype="tokens">
-    structures/maya/ball_court
-	  structures/maya/observatory
-	  structures/maya/temple_of_masks
+    structures/mayap/ball_court
+	  structures/mayap/observatory
+	  structures/mayap/temple_of_masks
     </Entities>
   </Builder>
   <Cost>
@@ -16,7 +16,7 @@
     </Resources>
   </Cost>
   <Identity>
-    <Civ>maya</Civ>
+    <Civ>mayap</Civ>
     <SelectionGroupName>units/maya_infantry_javelineer_b</SelectionGroupName>
     <GenericName>Javalineer warrior</GenericName>
     <SpecificName>Hul'che Bate</SpecificName>

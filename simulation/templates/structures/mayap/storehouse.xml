@@ -15,13 +15,13 @@
   </Obstruction>
     <Researcher>
     <Technologies datatype="tokens">
-     -gather_lumbering_ironaxes
+     <!-- -gather_lumbering_ironaxes
      -gather_mining_silvermining
      -gather_capacity_wheelbarrow
      -gather_capacity_carts
-     mayaps/gather_capacity_conveyor
-     mayaps/gather_lumbering_polished_stoneaxes
-     mayaps/gather_capacity_2
+     mayap/gather_capacity_conveyor
+     mayap/gather_lumbering_polished_stoneaxes
+     mayap/gather_capacity_2 -->
     </Technologies>
   </Researcher>
   <VisualActor>

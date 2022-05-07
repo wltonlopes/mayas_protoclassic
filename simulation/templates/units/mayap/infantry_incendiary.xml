@@ -39,7 +39,7 @@
     </Resources>
   </Cost>
   <Identity>
-    <Civ>maya</Civ>
+    <Civ>mayap</Civ>
     <Classes datatype="tokens">Siege</Classes>
     <GenericName>Incendiary warrior</GenericName>
     <SpecificName>Tilo'm Bate</SpecificName>

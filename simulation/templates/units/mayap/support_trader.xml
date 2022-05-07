@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_support_trader">
   <Identity>
-    <Civ>maya</Civ>
+    <Civ>mayap</Civ>
     <SpecificName>Aj Kon</SpecificName>
     <Icon>units/iber_support_trader.png</Icon>
   </Identity>

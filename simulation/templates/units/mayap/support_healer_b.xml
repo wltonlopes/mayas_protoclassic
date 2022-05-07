@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_support_healer">
   <Identity>
-    <Civ>maya</Civ>
+    <Civ>mayap</Civ>
     <SelectionGroupName>units/maya_protoclassic/support_healer_b</SelectionGroupName>
     <GenericName>Maya Priest</GenericName>
     <SpecificName> Aj K'in</SpecificName>

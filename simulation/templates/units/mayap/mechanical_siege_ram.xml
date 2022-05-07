@@ -17,7 +17,7 @@
     <Height>3.0</Height>
   </Footprint>
   <Identity>
-    <Civ>maya</Civ>
+    <Civ>mayap</Civ>
     <SpecificName>Battering Ram</SpecificName>
     <Icon>units/maya_ram.png</Icon>
   </Identity>
