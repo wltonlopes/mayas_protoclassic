@@ -20,7 +20,7 @@
     <SelectionGroupName>units/maya_infantry_javelineer_b</SelectionGroupName>
     <GenericName>Javalineer warrior</GenericName>
     <SpecificName>Hul'che Bate</SpecificName>
-    <Icon>units/maya_javelinist.png</Icon>
+    <Icon>units/mayap/javelineer.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/mayap/infantry_javelineer_a</Entity>

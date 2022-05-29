@@ -12,7 +12,7 @@
     <SelectionGroupName>units/zapo_infantry_slinger_b</SelectionGroupName>
     <GenericName>maya Slinger</GenericName>
     <SpecificName>Yum'Tun Bate</SpecificName>
-    <Icon>units/maya_slinger.png</Icon>
+    <Icon>units/mayap/slinger.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/maya_protoclassic/infantry_slinger_a</Entity>

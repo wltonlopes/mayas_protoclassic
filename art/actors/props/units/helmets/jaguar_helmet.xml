@@ -9,7 +9,7 @@
       </textures>
     </variant>
         <variant frequency="100" name="b2">
-      <mesh>props/helmet/maya_nobre_jaguar.dae</mesh>
+      <mesh>props/helmet/new/helmet_jaguar.dae</mesh>
       <textures>
         <texture file="props/maya_weapons.png" name="baseTex"/>
       </textures>

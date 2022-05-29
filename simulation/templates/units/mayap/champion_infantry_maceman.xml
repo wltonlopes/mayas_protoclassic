@@ -3,7 +3,7 @@
   <Identity>
     <GenericName>Champion Spearman</GenericName>
     <SpecificName>Sajaloob</SpecificName>
-     <Icon>units/mayap/champion_infantry_swordsman.png</Icon>
+     <Icon>units/mayap/sajaloob.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/maya_protoclassic/infantry_maceman_c.xml</Actor>

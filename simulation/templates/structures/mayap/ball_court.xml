@@ -3,38 +3,42 @@
   <Cost>
     <BuildTime>200</BuildTime>
     <Resources>
-      <wood>0</wood>
       <stone>200</stone>
-      <metal>100</metal>
+      <metal>200</metal>
     </Resources>
   </Cost>
   <Footprint>
-    <Square width="30.0" depth="30.0"/>
-    <Height>8.0</Height>
+    <Square width="18.0" depth="28.0"/>
+    <Height>12.0</Height>
   </Footprint>
+  <GarrisonHolder>
+    <Max>10</Max>
+  </GarrisonHolder>
   <Health>
     <Max>2000</Max>
+    <SpawnEntityOnDeath>decay|rubble/rubble_stone_4x6</SpawnEntityOnDeath>
   </Health>
   <Identity>
     <Civ>mayap</Civ>
-    <Classes datatype="tokens">ConquestCritical</Classes>
     <GenericName>Ballcourt</GenericName>
     <SpecificName>Pitzil</SpecificName>
-    <Tooltip>Train champion units.</Tooltip>
-    <Icon>structures/gymnasium.png</Icon>
-     <RequiredTechnology>phase_town</RequiredTechnology>
+    <Tooltip>Train Heavy infantry units.</Tooltip>
+    <Classes datatype="tokens">ConquestCritical CivSpecific</Classes>
+    <VisibleClasses datatype="tokens">Syssiton</VisibleClasses>
+    <Icon>structures/syssition.png</Icon>
+    <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Loot>
-    <wood>0</wood>
-    <stone>50</stone>
-    <metal>50</metal>
+    <stone>40</stone>
+    <metal>40</metal>
   </Loot>
   <Obstruction>
-    <Static width="28.0" depth="28.0"/>
+    <Static width="15.0" depth="25.0"/>
   </Obstruction>
+  <ProductionQueue/>
   <Researcher>
     <Technologies datatype="tokens">
-      mayaps/ball_players
+      mayap/ball_players
     </Technologies>
   </Researcher>
   <Sound>
@@ -43,12 +47,20 @@
       <constructed>interface/complete/building/complete_gymnasium.xml</constructed>
     </SoundGroups>
   </Sound>
+  <TerritoryInfluence>
+    <Root>false</Root>
+    <Radius>38</Radius>
+    <Weight>40000</Weight>
+  </TerritoryInfluence>
   <Trainer>
+    <BatchTimeModifier>0.7</BatchTimeModifier>
     <Entities datatype="tokens">
-      units/{civ}/champion_infantry
-      units/{civ}/champion_infantry_javelineer
-      units/{civ}/champion_infantry_axeman      
-      units/{civ}/infantry_incendiary
+      units/{civ}/cavalry_spearman_b
+      <!-- Nobre Heavy inf  arara : subst cavalry spearman-->
+      units/{civ}/cavalry_javelineer_b
+      <!-- Nobre Heavy inf  guardian : subst cavalry javalineer-->
+      units/{civ}/cavalry_axeman_b
+      <!-- Nobre Heavy inf  jaguar : subst cavalry axeman--> 
     </Entities>
   </Trainer>
   <VisualActor>

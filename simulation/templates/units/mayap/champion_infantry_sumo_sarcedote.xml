@@ -7,7 +7,7 @@
     <Civ>mayap</Civ>
     <GenericName>Champion Bellringer</GenericName>
     <SpecificName>Kanetuki</SpecificName>
-    <Icon>units/gaul_champion_swordsman_carnyx.png</Icon>
+    <Icon>units/mayap/nojajkuhun.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/maya_protoclassic/healer_champion.xml</Actor>

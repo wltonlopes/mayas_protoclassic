@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="merc_inf|template_unit_infantry_ranged_archer">
+<!--   <Builder>
+    <Entities datatype="tokens">
+      structures/cart/super_dock
+      structures/cart/embassy_celtic
+      structures/cart/embassy_iberian
+      structures/cart/embassy_italic
+    </Entities>
+  </Builder> -->
+  <Identity>
+    <Civ>mayap</Civ>
+    <SelectionGroupName>units/cart/infantry_archer_b</SelectionGroupName>
+    <GenericName>Lenca Archer</GenericName>
+    <SpecificName></SpecificName>
+    <Icon>units/mayap/lenca_archer.png</Icon>
+  </Identity>
+  <Promotion>
+    <Entity>units/mayap/infantry_archer_lenca_a</Entity>
+  </Promotion>
+  <VisualActor>
+    <Actor>units/maya_protoclassic/infantry_archer_lenca_b.xml</Actor>
+  </VisualActor>
+</Entity>

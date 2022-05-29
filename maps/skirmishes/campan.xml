@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Scenario version="7">
+	<Environment>
+		<SkySet>stormy</SkySet>
+		<SunColor r="1.05078" g="0.885952" b="0.564537"/>
+		<SunElevation angle="0.656544"/>
+		<SunRotation angle="-1.93282"/>
+		<AmbientColor r="0.392157" g="0.47451" b="0.654902"/>
+		<Fog>
+			<FogFactor>0</FogFactor>
+			<FogThickness>0.5</FogThickness>
+			<FogColor r="0.8" g="0.8" b="0.894118"/>
+		</Fog>
+		<Water>
+			<WaterBody>
+				<Type>ocean</Type>
+				<Color r="0.294118" g="0.34902" b="0.694118"/>
+				<Tint r="0.392157" g="0.47451" b="0.654902"/>
+				<Height>7.44919</Height>
+				<Waviness>2.7</Waviness>
+				<Murkiness>1</Murkiness>
+				<WindAngle>0</WindAngle>
+			</WaterBody>
+		</Water>
+		<Postproc>
+			<Brightness>0</Brightness>
+			<Contrast>1</Contrast>
+			<Saturation>0.99</Saturation>
+			<Bloom>0.1999</Bloom>
+			<PostEffect>default</PostEffect>
+		</Postproc>
+	</Environment>
+	<Camera>
+		<Position x="3064.25" y="76.943" z="812.767"/>
+		<Rotation angle="0"/>
+		<Declination angle="0.610865"/>
+	</Camera>
+	<ScriptSettings><![CDATA[
+{
+  "AISeed": 0,
+  "AllyView": false,
+  "CircularMap": true,
+  "Description": "A demo map of the British Isles, created with the assistance of a height map.",
+  "Keywords": [
+    "demo"
+  ],
+  "LockTeams": false,
+  "Name": "camp",
+  "PlayerData": [
+    "",
+    {
+      "Civ": "brit",
+      "Color": {
+        "b": 200,
+        "g": 46,
+        "r": 46
+      },
+      "Name": "Player 1",
+      "Resources": {
+        "food": 100000,
+        "metal": 100000,
+        "stone": 100000,
+        "wood": 100000
+      },
+      "Team": -1
+    },
+    {
+      "Civ": "rome",
+      "Color": {
+        "b": 20,
+        "g": 20,
+        "r": 150
+      },
+      "Name": "Player 2",
+      "Resources": {
+        "food": 100000,
+        "metal": 100000,
+        "stone": 100000,
+        "wood": 100000
+      },
+      "Team": -1
+    }
+  ],
+  "Preview": "",
+  "RevealMap": true,
+  "VictoryConditions": []
+}
+]]></ScriptSettings>
+	<Entities>
+		<Entity uid="16">
+			<Template>actor|structures/celts/stone_monument.xml</Template>
+			<Position x="2418.65333" z="644.37269"/>
+			<Orientation y="0.59557"/>
+		</Entity>
+		<Entity uid="51">
+			<Template>campaigns/campaign_city_minor_test</Template>
+			<Player>0</Player>
+			<Position x="2863.99927" z="1299.0265"/>
+			<Orientation y="1.1284"/>
+			<Actor seed="61262"/>
+		</Entity>
+		<Entity uid="52">
+			<Template>campaigns/campaign_city_test</Template>
+			<Player>0</Player>
+			<Position x="2531.38746" z="1373.8589"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="54084"/>
+		</Entity>
+		<Entity uid="53">
+			<Template>campaigns/campaign_city_test</Template>
+			<Player>2</Player>
+			<Position x="2538.89258" z="1975.0254"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="15768"/>
+		</Entity>
+		<Entity uid="54">
+			<Template>campaigns/campaign_city_test</Template>
+			<Player>0</Player>
+			<Position x="2667.6963" z="639.33808"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="58551"/>
+		</Entity>
+		<Entity uid="55">
+			<Template>campaigns/campaign_city_test</Template>
+			<Player>1</Player>
+			<Position x="3064.25074" z="911.06543"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="54084"/>
+		</Entity>
+		<Entity uid="56">
+			<Template>campaigns/campaign_city_minor_test</Template>
+			<Player>0</Player>
+			<Position x="3396.86255" z="836.23304"/>
+			<Orientation y="1.12841"/>
+			<Actor seed="61262"/>
+		</Entity>
+		<Entity uid="57">
+			<Template>campaigns/campaign_city_test</Template>
+			<Player>0</Player>
+			<Position x="2815.46094" z="825.26307"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="54084"/>
+		</Entity>
+		<Entity uid="58">
+			<Template>campaigns/campaign_city_minor_test</Template>
+			<Player>0</Player>
+			<Position x="3148.07276" z="750.43067"/>
+			<Orientation y="1.12841"/>
+			<Actor seed="61262"/>
+		</Entity>
+		<Entity uid="59">
+			<Template>campaigns/campaign_city_test</Template>
+			<Player>0</Player>
+			<Position x="1329.84168" z="1525.84278"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="54084"/>
+		</Entity>
+		<Entity uid="60">
+			<Template>campaigns/campaign_city_test</Template>
+			<Player>0</Player>
+			<Position x="1468.76319" z="1999.51893"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="54084"/>
+		</Entity>
+		<Entity uid="61">
+			<Template>campaigns/campaign_city_test</Template>
+			<Player>0</Player>
+			<Position x="1954.62745" z="1012.69373"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="54084"/>
+		</Entity>
+		<Entity uid="62">
+			<Template>campaigns/campaign_city_test</Template>
+			<Player>0</Player>
+			<Position x="2049.94532" z="610.98609"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="54084"/>
+		</Entity>
+		<Entity uid="63">
+			<Template>campaigns/campaign_city_test</Template>
+			<Player>0</Player>
+			<Position x="2119.69092" z="2665.12598"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="54084"/>
+		</Entity>
+		<Entity uid="64">
+			<Template>campaigns/campaign_city_test</Template>
+			<Player>0</Player>
+			<Position x="907.28174" z="1549.97303"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="54084"/>
+		</Entity>
+		<Entity uid="65">
+			<Template>campaigns/campaign_city_test</Template>
+			<Player>0</Player>
+			<Position x="2333.90186" z="1073.57276"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="54084"/>
+		</Entity>
+		<Entity uid="66">
+			<Template>campaigns/campaign_city_test</Template>
+			<Player>0</Player>
+			<Position x="3183.26197" z="1317.70948"/>
+			<Orientation y="2.35622"/>
+			<Actor seed="54084"/>
+		</Entity>
+		<Entity uid="67">
+			<Template>units/han/hero_han_xin</Template>
+			<Player>1</Player>
+			<Position x="3059.78248" z="881.22767"/>
+			<Orientation y="3.12522"/>
+			<Actor seed="49552"/>
+		</Entity>
+		<Entity uid="68">
+			<Template>units/han/champion_infantry_spearman_academy</Template>
+			<Player>1</Player>
+			<Position x="3052.13697" z="879.01447"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="9806"/>
+		</Entity>
+		<Entity uid="69">
+			<Template>units/han/champion_infantry_spearman_academy</Template>
+			<Player>1</Player>
+			<Position x="3054.40894" z="879.33832"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="35509"/>
+		</Entity>
+		<Entity uid="70">
+			<Template>units/han/champion_infantry_spearman_academy</Template>
+			<Player>1</Player>
+			<Position x="3052.88111" z="876.74311"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="38906"/>
+		</Entity>
+		<Entity uid="71">
+			<Template>units/han/champion_infantry_spearman_academy</Template>
+			<Player>1</Player>
+			<Position x="3055.04004" z="877.37427"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="58801"/>
+		</Entity>
+		<Entity uid="72">
+			<Template>units/han/champion_infantry_spearman_academy</Template>
+			<Player>1</Player>
+			<Position x="3053.88306" z="875.77851"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="18982"/>
+		</Entity>
+		<Entity uid="73">
+			<Template>units/han/champion_infantry_spearman</Template>
+			<Player>1</Player>
+			<Position x="3066.23951" z="880.34955"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="26827"/>
+		</Entity>
+		<Entity uid="74">
+			<Template>units/han/champion_infantry_spearman</Template>
+			<Player>1</Player>
+			<Position x="3066.21119" z="877.96247"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="32098"/>
+		</Entity>
+		<Entity uid="75">
+			<Template>units/han/champion_infantry_spearman</Template>
+			<Player>1</Player>
+			<Position x="3068.39332" z="880.07831"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="20875"/>
+		</Entity>
+		<Entity uid="76">
+			<Template>units/han/champion_infantry_spearman</Template>
+			<Player>1</Player>
+			<Position x="3068.03614" z="878.14527"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="34423"/>
+		</Entity>
+		<Entity uid="77">
+			<Template>units/han/champion_infantry_archer</Template>
+			<Player>1</Player>
+			<Position x="3064.20337" z="878.41443"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="42717"/>
+		</Entity>
+		<Entity uid="78">
+			<Template>units/han/champion_infantry_archer</Template>
+			<Player>1</Player>
+			<Position x="3063.87574" z="881.0569"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="46901"/>
+		</Entity>
+		<Entity uid="79">
+			<Template>units/han/champion_infantry_archer</Template>
+			<Player>1</Player>
+			<Position x="3051.24341" z="881.2862"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="7819"/>
+		</Entity>
+		<Entity uid="80">
+			<Template>units/han/champion_infantry_archer</Template>
+			<Player>1</Player>
+			<Position x="3053.96534" z="882.03998"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="28820"/>
+		</Entity>
+		<Entity uid="81">
+			<Template>units/sele/infantry_spearman_e</Template>
+			<Player>2</Player>
+			<Position x="2560.89698" z="1958.34986"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="63455"/>
+		</Entity>
+		<Entity uid="82">
+			<Template>units/sele/infantry_spearman_e</Template>
+			<Player>2</Player>
+			<Position x="2561.46534" z="1960.02308"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="9629"/>
+		</Entity>
+		<Entity uid="83">
+			<Template>units/sele/infantry_spearman_e</Template>
+			<Player>2</Player>
+			<Position x="2562.31055" z="1961.88526"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="64472"/>
+		</Entity>
+		<Entity uid="84">
+			<Template>units/sele/infantry_spearman_e</Template>
+			<Player>2</Player>
+			<Position x="2563.04175" z="1964.1803"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="4844"/>
+		</Entity>
+		<Entity uid="85">
+			<Template>units/sele/infantry_swordsman_merc_e</Template>
+			<Player>2</Player>
+			<Position x="2557.15625" z="1954.77479"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="38073"/>
+		</Entity>
+		<Entity uid="86">
+			<Template>units/sele/infantry_swordsman_merc_e</Template>
+			<Player>2</Player>
+			<Position x="2554.92017" z="1953.7837"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="6592"/>
+		</Entity>
+		<Entity uid="87">
+			<Template>units/sele/infantry_swordsman_merc_e</Template>
+			<Player>2</Player>
+			<Position x="2558.58375" z="1956.46521"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="57183"/>
+		</Entity>
+		<Entity uid="88">
+			<Template>units/sele/infantry_swordsman_merc_e</Template>
+			<Player>2</Player>
+			<Position x="2555.0127" z="1955.62256"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="14388"/>
+		</Entity>
+		<Entity uid="89">
+			<Template>units/sele/infantry_swordsman_merc_e</Template>
+			<Player>2</Player>
+			<Position x="2556.75513" z="1956.80518"/>
+			<Orientation y="2.35621"/>
+			<Actor seed="31162"/>
+		</Entity>
+	</Entities>
+	<Paths/>
+</Scenario>
