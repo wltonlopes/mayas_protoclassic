@@ -4,9 +4,15 @@
   <group>
     <variant frequency="100" name="1">
       <mesh>structural/maya_protoclassic/dock_1.dae</mesh>
+    <textures>
+        <texture file="structural/ao/mayap/dock_1.png" name="aoTex"/>
+      </textures>
     </variant>
       <variant frequency="100" name="2">
       <mesh>structural/maya_protoclassic/dock_2.dae</mesh>
+    <textures>
+        <texture file="structural/ao/mayap/dock_2.png" name="aoTex"/>
+      </textures>
     </variant>
   </group>
 <group>
@@ -36,5 +42,5 @@
       </props>
     </variant>
   </group>
-  <material>player_trans_parallax_spec.xml</material>
+  <material>player_trans_ao_parallax_spec.xml</material>
 </actor>
