@@ -5,14 +5,13 @@
   <group>
     <variant frequency="1" name="dock">
       <mesh>structural/maya_protoclassic/canoe_merc.dae</mesh>
-      <props>     
-		<prop actor="props/special/eyecandy/produce_bin_a.xml" attachpoint="2"/>
-         <prop actor="props/special/eyecandy/produce_bin_a.xml" attachpoint="1"/>
+      <props>
+        <prop actor="units/maya_protoclassic/canoe_navigator.xml" attachpoint="c1"/>  
       </props>
       <textures>
-        <texture file="structural/maya_struct.png" name="baseTex"/>
-        <texture file="structural/maya_struct_spec.png" name="specTex"/>
-        <texture file="structural/maya_struct_norm.png" name="normTex"/>
+        <texture file="structural/maya_canoe.png" name="baseTex"/>
+        <texture file="structural/maya_canoe_spec.png" name="specTex"/>
+        <texture file="structural/maya_canoe_norm.png" name="normTex"/>
 	  </textures>
     </variant>
   </group>

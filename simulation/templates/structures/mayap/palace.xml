@@ -21,7 +21,7 @@
     <Tooltip>Territory root. Train Maiden Guards and Heroes.</Tooltip>
     <Classes datatype="tokens">ConquestCritical CivSpecific</Classes>
     <VisibleClasses datatype="tokens">Palace</VisibleClasses>
-    <Icon>gaia/special_stoa.png</Icon>
+    <Icon>gaia/mayap/palacio.png</Icon>
   </Identity>
   <Loot>
     <stone>40</stone>

@@ -25,7 +25,7 @@
     <Tooltip>Train Heavy infantry units.</Tooltip>
     <Classes datatype="tokens">ConquestCritical CivSpecific</Classes>
     <VisibleClasses datatype="tokens">Syssiton</VisibleClasses>
-    <Icon>structures/syssition.png</Icon>
+    <Icon>structures/mayap/ball_court.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Loot>

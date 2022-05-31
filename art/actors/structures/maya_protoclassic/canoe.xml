@@ -4,13 +4,12 @@
   <float/>
   <group>
     <variant>
-      <mesh>structural/canoe_merc/canoe_pesq.dae</mesh>
+      <mesh>structural/maya_protoclassic/canoe_fisher.dae</mesh>
       <props>
-		<prop actor="units/maya/canoe_navigator.xml" attachpoint="fisherman"/>	   
-        <prop actor="props/structures/ptolemies/fishing_boat_basket.xml" attachpoint="basket"/>
+		    <prop actor="units/maya_protoclassic/canoe_navigator.xml" attachpoint="fisherman"/>	   
       </props>
       <textures>
-        <texture file="structural/maya_struct.png" name="baseTex"/>
+        <texture file="structural/maya_canoe.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

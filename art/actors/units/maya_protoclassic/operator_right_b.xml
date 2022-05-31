@@ -6,14 +6,13 @@
       <mesh>skeletal/new/m_naked.dae</mesh>
            <props>
         <prop actor="props/units/heads/head_maya_basic.xml" attachpoint="head"/>
-
       </props>
     </variant>
   </group>
   <group>
     <variant frequency="100" name="spearman">
       <textures>
-        <texture file="skeletal/maya_b_1.png" name="baseTex"/>
+        <texture file="skeletal/mayas/maya_ince_1.png" name="baseTex"/>
       </textures>
     </variant>
   </group>

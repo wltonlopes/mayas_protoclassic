@@ -28,7 +28,7 @@
     <Classes datatype="tokens">-ConquestCritical CivSpecific</Classes>
     <VisibleClasses datatype="tokens">City Pyramid</VisibleClasses>
     <RequiredTechnology>phase_city</RequiredTechnology>
-    <Icon>structures/kush_pyramid_big.png</Icon>
+    <Icon>structures/mayap/piramide.png</Icon>
   </Identity>
   <Loot>
     <stone>90</stone>

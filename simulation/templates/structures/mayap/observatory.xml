@@ -24,7 +24,7 @@
     <GenericName>observatory</GenericName>
     <SpecificName>K'inob</SpecificName>
     <Tooltip>Avance sua tecnologia.</Tooltip>
-    <Icon>structures/library_scroll.png</Icon>
+    <Icon>structures/mayap/observatory.png</Icon>
 	 <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Loot>

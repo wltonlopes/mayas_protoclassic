@@ -17,7 +17,7 @@
     <Civ>mayap</Civ>
     <GenericName>Embassy</GenericName>
     <Tooltip>Train Mercenaries.</Tooltip>
-    <Icon>structures/embassy_italic.png</Icon>
+    <Icon>structures/mayap/plaza.png</Icon>
   </Identity>
   <Loot>
     <wood>80</wood>
@@ -29,6 +29,7 @@
   <Trainer>
     <Entities datatype="tokens">
       units/{civ}/infantry_spearman_lenca_b
+      units/{civ}/infantry_swordsman_merc_b
       units/{civ}/infantry_archer_lenca_b
     </Entities>
   </Trainer>

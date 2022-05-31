@@ -118,13 +118,11 @@
 			"Count": 2
 		},
 		{
-			"Template": "units/mayap/infantry_blowgunner",
+			"Template": "units/mayap/infantry_blowgunner_b",
 			"Count": 1
 		}
 	],
 	"AINames": [
-		"1 Jaguar",
-		"King Snake",
 		"White Owl Jaguar",
 		"Yax Ehb Xook",
 		"Ch'a Ruler I",
@@ -149,7 +147,7 @@
 		" Chiih-Witz  ix Ajaw"
 	],
 	"SkirmishReplacements": {
-		"skirmish/units/default_cavalry": "units/mayap/infantry_blowgunner",
+		"skirmish/units/default_cavalry": "units/mayap/infantry_blowgunner_b",
 		"skirmish/units/default_infantry_ranged_b": "units/mayap/infantry_javelineer_b",
 		"skirmish/units/default_infantry_melee_b": "units/mayap/infantry_axeman_b",
 		"skirmish/structures/default_house_10": "structures/{civ}/house",
