@@ -5,13 +5,13 @@
     <variant frequency="100" name="1">
       <mesh>structural/maya_protoclassic/farmstead_1.dae</mesh>
       <textures>
-        <texture file="structural/ao/mayap/templomaior_1.png" name="aoTex"/>
+        <texture file="structural/ao/mayap/farmstead_1.png" name="aoTex"/>
       </textures>
     </variant>
       <variant frequency="100" name="2">
       <mesh>structural/maya_protoclassic/farmstead_2.dae</mesh>
       <textures>
-        <texture file="structural/ao/mayap/templomaior_1.png" name="aoTex"/>
+        <texture file="structural/ao/mayap/farmstead_2.png" name="aoTex"/>
       </textures>
     </variant>
   </group>

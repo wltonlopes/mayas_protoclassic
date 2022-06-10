@@ -5,7 +5,8 @@
     <variant frequency="1" name="Base">
       <mesh>skeletal/new/m_naked.dae</mesh>
       <props>
-        <prop actor="props/units/heads/head_maya_basic.xml" attachpoint="head"/>
+        <prop actor="props/units/heads/head_olmec_basic.xml" attachpoint="head"/>
+        <prop actor="props/units/helmets/olmec_mask.xml" attachpoint="helmet"/>
         <prop actor="props/units/weapons/olmec_weapon.xml" attachpoint="weapon_R"/>
       </props>
     </variant>

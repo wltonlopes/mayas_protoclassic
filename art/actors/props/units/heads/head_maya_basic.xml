@@ -11,9 +11,6 @@
      <variant frequency="1" name="Head3">
       <mesh>props/heads/maya_head_c.dae</mesh>
     </variant>
-        <variant frequency="1" name="Head4">
-      <mesh>props/heads/head_mayan_3.dae</mesh>
-    </variant>
   </group>
   <group>
     <variant frequency="1" name="mayan Face a">

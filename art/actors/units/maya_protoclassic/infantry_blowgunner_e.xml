@@ -43,7 +43,11 @@
   </group>
   <group>
     <variant frequency="1" name="Idle"/>
-    <variant file="biped/attack_ranged_blowgunner.xml"/>
+    <variant file="biped/attack_ranged_blowgunner.xml">
+      <props>
+        <prop actor="props/units/weapons/zarabatana_a.xml" attachpoint="weapon_R"/>
+      </props>
+    </variant>
     <variant file="biped/attack_capture.xml"/>
     <variant file="biped/attack_slaughter.xml"/>
     <variant file="biped/gather_tree.xml"/>

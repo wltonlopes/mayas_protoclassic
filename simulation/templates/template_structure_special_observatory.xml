@@ -14,7 +14,7 @@
     </Resources>
   </Cost>
   <Footprint>
-    <Square width="29.0" depth="34.0"/>
+    <Square width="25.0" depth="25.0"/>
     <Height>9.0</Height>
   </Footprint>
   <Health>
@@ -30,12 +30,12 @@
     <metal>40</metal>
   </Loot>
   <Obstruction>
-    <Static width="25.0" depth="30.0"/>
+    <Static width="25.0" depth="25.0"/>
   </Obstruction>
-    <Researcher>
+    <ProductionQueue/>
+  <Researcher>
     <Technologies datatype="tokens">
-     mayap/astronomy
-     mayap/mathematics_and_administration
+     mayap/calendario_haab
     </Technologies>
   </Researcher>
   <Sound>
@@ -45,6 +45,6 @@
     </SoundGroups>
   </Sound>
   <VisualActor>
-    <FoundationActor>structures/fndn_7x9.xml</FoundationActor>
+    <FoundationActor>structures/fndn_9x9.xml</FoundationActor>
   </VisualActor>
 </Entity>

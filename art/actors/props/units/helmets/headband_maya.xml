@@ -3,7 +3,7 @@
   <castshadow/>
   <group>
     <variant frequency="100" name="a">
-      <mesh>props/helmet/new/headband_maya.dae.dae</mesh>
+      <mesh>props/helmet/new/headband_maya.dae</mesh>
       <textures>
         <texture file="props/helmet/old/mace_a2.dds" name="baseTex"/>
       </textures>

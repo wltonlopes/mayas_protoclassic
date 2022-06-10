@@ -9,7 +9,16 @@
     <SpecificName>Huun Balam</SpecificName>
     <Icon>units/mayap/yax_ehb'xok.png</Icon>
   </Identity>
+  <UnitMotion>
+    <PassabilityClass>large</PassabilityClass>
+    <RunMultiplier>1</RunMultiplier>
+    <InstantTurnAngle>0.75</InstantTurnAngle>
+    <Acceleration op="mul">1</Acceleration>
+    <WalkSpeed>4</WalkSpeed>
+    <Weight op="mul">5.0</Weight>
+  </UnitMotion>
   <VisualActor>
-    <Actor>units/maya_protoclassic/hero_huun_balam_infantry_spearman.xml</Actor>
+    <Actor>units/maya_protoclassic/litera_a.xml</Actor>
   </VisualActor>
+
 </Entity>
