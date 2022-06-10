@@ -6,18 +6,14 @@
       <mesh>props/helmet/maya_b_2.dae</mesh>
       <textures>
         <texture file="structural/maya_struct.png" name="baseTex"/>
-        <texture file="structural/maya_struct_spec.png" name="specTex"/>
-        <texture file="structural/maya_struct_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="100" name="helmetB">
       <mesh>props/helmet/maya_b_2_2.dae</mesh>
       <textures>
         <texture file="structural/maya_struct.png" name="baseTex"/>
-        <texture file="structural/maya_struct_spec.png" name="specTex"/>
-        <texture file="structural/maya_struct_norm.png" name="normTex"/>
       </textures>
     </variant>
   </group>
-  <material>player_trans_parallax_spec_helmet.xml</material>
+  <material>player_trans.xml</material>
 </actor>
