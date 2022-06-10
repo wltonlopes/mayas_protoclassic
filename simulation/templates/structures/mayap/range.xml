@@ -18,6 +18,7 @@
     <Trainer>
     <Entities datatype="tokens">
       units/{civ}/infantry_blowgunner_b
+      units/{civ}/infantry_incendiary
     </Entities>
   </Trainer>
   <VisualActor>

@@ -43,7 +43,7 @@
     <Classes datatype="tokens">Siege</Classes>
     <GenericName>Incendiary warrior</GenericName>
     <SpecificName>Tilo'm Bate</SpecificName>
-      <RequiredTechnology>phase_city</RequiredTechnology>
+      <RequiredTechnology>phase_town</RequiredTechnology>
     <Tooltip>siege</Tooltip>
     <Icon>units/mayap/maya_fire.png</Icon>
   </Identity>

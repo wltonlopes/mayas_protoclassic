@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_hero_infantry_axeman">
-   <!-- <Auras datatype="tokens">
-    units/heroes/maya_chuen_pop
-  </Auras> -->
+   <Auras datatype="tokens">
+    units/mayap/heroes/ix_mulu
+  </Auras>
   <Identity>
     <Civ>mayap</Civ>
     <GenericName>hero_ix_muluc</GenericName>
