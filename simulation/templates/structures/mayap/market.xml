@@ -12,6 +12,12 @@
   <Obstruction>
     <Static width="27.0" depth="27.0"/>
   </Obstruction>
+  <ProductionQueue/>
+  <Researcher>
+    <Technologies datatype="tokens">
+      mayap/kakaw_trade
+    </Technologies>
+  </Researcher>
   <VisualActor>
     <Actor>structures/maya_protoclassic/market.xml</Actor>
   </VisualActor>

@@ -4,7 +4,7 @@
 	"cost": {"food": 200},
 	"requirements": {"tech": "phase_town"},
 	"requirementsTooltip": "Unlocked in Town Phase.",
-	"icon": "clenched_fist.png",
+	"icon": "numero_zero.png",
 	"researchTime": 35,
 	"tooltip": "All infantry  soldiers -20% train time.",
 	"modifications": [

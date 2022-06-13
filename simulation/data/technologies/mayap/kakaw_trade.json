@@ -1,5 +1,5 @@
 {
-	"genericName": "Silk Road",
+	"genericName": "Kakaw trade",
 	"description": "",
 	"supersedes": "trade_gain_02",
 	"cost": {
@@ -9,11 +9,11 @@
 	"requirements": {
 		"all": [
 			{ "tech": "phase_city" },
-			{ "civ": "han" }
+			{ "civ": "mayap" }
 		]
 	},
 	"requirementsTooltip": "Unlocked in City Phase.",
-	"icon": "trade_routes.png",
+	"icon": "cacao.png",
 	"researchTime": 50,
 	"tooltip": "Traders +20% international trade bonus.",
 	"modifications": [

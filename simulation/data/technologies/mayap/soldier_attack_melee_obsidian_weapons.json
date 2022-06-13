@@ -10,7 +10,7 @@
 	},
 	"requirements": { "tech": "phase_town" },
 	"requirementsTooltip": "Unlocked in Town Phase.",
-	"icon": "sword_01.png",
+	"icon": "obj_obsidiana.png",
 	"researchTime": 30,
 	"tooltip": "Soldiers +15% melee attack damage.",
 	"modifications": [

@@ -1,11 +1,11 @@
 {
-	"genericName": "Calendar and Astronomy",
-	"description": "Preparations for each season with the highest possible precision.",
-	"cost": { "food": 0, "wood": 400, "stone": 0, "metal": 300 },
+	"genericName": "Tzolkin Calendar",
+	"description": "Agricola calendar.",
+	"cost": { "food": 50, "wood": 100, "stone": 0, "metal": 100 },
 	"supersedes": "gather_farming_training",
-	"requirements": { "tech": "phase_city" },
-	"requirementsTooltip": "Unlocked in City Phase.",
-	"icon": "olives.png",
+	"requirements": { "tech": "phase_village" },
+	"requirementsTooltip": "Unlocked in Village Phase.",
+	"icon": "calendario_agricola.png",
 	"researchTime": 60,
 	"tooltip": "Workers +100% grain gather rate.",
 	"modifications": [
