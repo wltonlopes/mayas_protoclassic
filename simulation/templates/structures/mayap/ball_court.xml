@@ -39,6 +39,7 @@
   <Researcher>
     <Technologies datatype="tokens">
       mayap/ball_players
+      mayap/poison_blowgunner
     </Technologies>
   </Researcher>
   <Sound>

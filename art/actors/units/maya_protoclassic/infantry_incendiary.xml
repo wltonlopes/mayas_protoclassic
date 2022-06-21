@@ -9,6 +9,7 @@
         <prop actor="props/units/weapons/tocha_f.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/shields/maya_shield_c_basic.xml" attachpoint="shield"/>
         <prop actor="props/units/weapons/jav_ammo.xml" attachpoint="weapon_L"/>
+        <prop actor="props/units/armor/maya_loincloth_1.xml" attachpoint="fauld"/>  
       </props>
     </variant>
   </group>

@@ -11,19 +11,19 @@
       <variant frequency="100" name="2">
       <mesh>structural/maya_protoclassic/piramide_2.dae</mesh>
     <textures>
-        <texture file="structural/ao/mayap/piramide_1.png" name="aoTex"/>
+        <texture file="structural/ao/mayap/piramide_2.png" name="aoTex"/>
       </textures>
     </variant>
     <variant frequency="100" name="3">
       <mesh>structural/maya_protoclassic/piramide_3.dae</mesh>
     <textures>
-        <texture file="structural/ao/mayap/piramide_1.png" name="aoTex"/>
+        <texture file="structural/ao/mayap/piramide_3.png" name="aoTex"/>
       </textures>
     </variant>
     <variant frequency="100" name="4">
       <mesh>structural/maya_protoclassic/piramide_4.dae</mesh>
     <textures>
-        <texture file="structural/ao/mayap/piramide_1.png" name="aoTex"/>
+        <texture file="structural/ao/mayap/piramide_4.png" name="aoTex"/>
       </textures>
     </variant>
   </group>  

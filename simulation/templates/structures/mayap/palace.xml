@@ -50,6 +50,9 @@
   <Trainer>
     <BatchTimeModifier>0.7</BatchTimeModifier>
     <Entities datatype="tokens">
+      units/{civ}/hero_huun_balam
+      units/{civ}/hero_ix_muluc
+      units/{civ}/hero_yax_ehb'xok
     </Entities>
   </Trainer>
   <Vision>

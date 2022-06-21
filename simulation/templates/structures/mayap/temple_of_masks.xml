@@ -47,9 +47,7 @@
   <ProductionQueue/>
   <Trainer>
     <Entities datatype="tokens">
-    units/{civ}/hero_huun_balam
-    units/{civ}/hero_ix_muluc
-    units/{civ}/hero_yax_ehb'xok
+    units/{civ}/champion_healer 
     </Entities>
   </Trainer>
   <VisualActor>

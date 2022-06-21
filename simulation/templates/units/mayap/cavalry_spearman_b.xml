@@ -9,7 +9,6 @@
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion disable=""/>
-
     <Sound>
     <SoundGroups>
       <attack_slaughter>attack/weapon/knife_attack.xml</attack_slaughter>
