@@ -18,14 +18,14 @@
     <variant frequency="1" name="a">
       <mesh>skeletal/new/m_tunic_maya_variant_short.dae</mesh>
       <textures>
-        <texture file="skeletal/mayas/maya_javelineer_a_1.png" name="baseTex"/>
+        <texture file="skeletal/mayas/maya_javelineer_e_1.png" name="baseTex"/>
         <texture file="skeletal/maya_isl_a_spec.png" name="specTex"/>
       </textures>
     </variant>
   <variant frequency="1" name="b">
       <mesh>skeletal/new/m_tunic_maya.dae</mesh>
       <textures>
-      <texture file="skeletal/mayas/maya_javelineer_a_2.png" name="baseTex"/>
+      <texture file="skeletal/mayas/maya_javelineer_e_2.png" name="baseTex"/>
         <texture file="skeletal/maya_isl_a_spec.png" name="specTex"/>
       </textures>
     </variant>
