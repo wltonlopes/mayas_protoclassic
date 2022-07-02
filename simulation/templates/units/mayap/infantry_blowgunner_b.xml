@@ -2,7 +2,7 @@
 <Entity parent="template_unit_infantry_ranged_blowgunner">
   <Builder>
     <Entities datatype="tokens">
-      structures/mayap/ball_court
+      structures/mayap/pyramid_large
       structures/mayap/palace
       structures/mayap/observatory
       structures/mayap/embassy

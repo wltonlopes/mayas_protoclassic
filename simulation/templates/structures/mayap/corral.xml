@@ -18,8 +18,18 @@
   <Researcher>
     <Technologies datatype="tokens">
      -gather_animals_stockbreeding
+     mayap/gather_corral_apicultura
     </Technologies>
   </Researcher>
+  <ResourceTrickle>
+    <Rates> 
+      <food>0.0</food>
+      <wood>0.0</wood>
+      <stone>0.0</stone>
+      <metal>0.0</metal>
+    </Rates> 
+    <Interval>60000</Interval> 
+  </ResourceTrickle>
   <Trainer>
     <Entities datatype="tokens">
       gaia/fauna_turkey_trainable

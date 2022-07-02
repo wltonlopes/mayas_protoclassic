@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_structure_special">
+<Entity parent="template_structure_military_stable">
+  <BuildRestrictions>
+    <Category>Ballcourt</Category>
+  </BuildRestrictions>
   <Cost>
     <BuildTime>200</BuildTime>
     <Resources>
-      <stone>200</stone>
+      <stone>300</stone>
       <metal>200</metal>
     </Resources>
   </Cost>
@@ -15,21 +18,21 @@
     <Max>10</Max>
   </GarrisonHolder>
   <Health>
-    <Max>2000</Max>
+    <Max>1000</Max>
     <SpawnEntityOnDeath>decay|rubble/rubble_stone_4x6</SpawnEntityOnDeath>
   </Health>
   <Identity>
     <Civ>mayap</Civ>
     <GenericName>Ballcourt</GenericName>
     <SpecificName>Pitzil</SpecificName>
+   <VisibleClasses datatype="tokens">Ballcourt</VisibleClasses>
     <Tooltip>Train Heavy infantry units.</Tooltip>
-    <Classes datatype="tokens">ConquestCritical CivSpecific</Classes>
-    <VisibleClasses datatype="tokens">Syssiton</VisibleClasses>
+    <Classes datatype="tokens">ConquestCritical</Classes>
     <Icon>structures/mayap/ball_court.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Loot>
-    <stone>40</stone>
+    <stone>50</stone>
     <metal>40</metal>
   </Loot>
   <Obstruction>

@@ -1,13 +1,13 @@
 {
-	"genericName": "Annual safra",
-	"description": "Safras anuais.",
+	"genericName": "Apicultura",
+	"description": "Gera x de comida a cada x tempo.",
 	"cost": {
 		"wood": 200,
-		"metal": 100
+		"food": 10
 	},
 	"requirements": {
 		"all": [
-			{ "tech": "phase_town" },
+			{ "tech": "phase_village" },
 			{
 				"any": [
 					{ "civ": "mayap" }
@@ -16,12 +16,12 @@
 		]
 	},
 	"requirementsTooltip": "Unlocked in Town Phase.",
-	"icon": "colheita_anual.png",
+	"icon": "apicultura.png",
 	"researchTime": 50,
 	"tooltip": "Workers +10% grain gather rate.",
 	"modifications": [
-		{ "value": "ResourceGatherer/Rates/food.grain", "multiply": 1.1 }
+		{ "value": "ResourceTrickle/Rates/food", "add": 10.0 }
 	],
-	"affects": ["Worker"],
+	"affects": ["Corral"],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }

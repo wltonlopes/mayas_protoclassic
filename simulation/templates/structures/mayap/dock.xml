@@ -15,10 +15,13 @@
   <Researcher>
     <Technologies datatype="tokens">
       mayap/ship_trade_mesoamerican_cabotage
-      <!-- -ship_cost_time
+      mayap/ship_trade_mesoamerican_cabotage
+      mayap/ship_trade_shells
+      -equine_transports
+      -iphicratean_reforms
+      -ship_cost_time
       -ship_health
       -ship_movement_speed
-      -equine_transports -->
     </Technologies>
   </Researcher>
   <Trainer>

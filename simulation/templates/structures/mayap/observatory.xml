@@ -39,6 +39,7 @@
   <Researcher>
     <Technologies datatype="tokens">
       mayap/mathematics
+      mayap/calendario_tzolkin
       mayap/calendario_haab
       mayap/cicle_venusiano
     </Technologies>
