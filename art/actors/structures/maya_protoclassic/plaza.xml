@@ -12,7 +12,7 @@
     </variant>
   </group>
   <group>
-    <variant frequency="100" name="n1">
+    <!-- <variant frequency="100" name="n1">
       <mesh>structural/maya_protoclassic/plaza_b1.dae</mesh>
       <props>
         <prop actor="props/structures/decals/dirt_4x4.xml" attachpoint="root"/>
@@ -23,7 +23,7 @@
       <props>
         <prop actor="props/structures/decals/dirt_4x4.xml" attachpoint="root"/>
       </props>
-    </variant>
+    </variant> -->
     <variant frequency="100" name="n3">
       <mesh>structural/maya_protoclassic/plaza_e1.dae</mesh>
       <props>
@@ -34,14 +34,6 @@
       <mesh>structural/maya_protoclassic/plaza_e2.dae</mesh>
       <props>
         <prop actor="props/structures/decals/dirt_4x4.xml" attachpoint="root"/>
-      </props>
-    </variant>
-  </group>
-  <group>
-    <variant name="ungarrisoned" frequency="1"/>
-    <variant name="garrisoned">
-      <props>
-        <prop actor="props/special/common/garrison_flag_maya_protoclassic.xml" attachpoint="garrisoned"/>
       </props>
     </variant>
   </group>
