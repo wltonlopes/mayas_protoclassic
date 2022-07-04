@@ -119,6 +119,10 @@
 			"Count": 2
 		},
 		{
+			"Template": "units/mayap/cavalry_javelineer_b",
+			"Count": 1
+		},
+		{
 			"Template": "units/mayap/infantry_blowgunner_b",
 			"Count": 1
 		}
@@ -148,7 +152,8 @@
 		" Chiih-Witz  ix Ajaw"
 	],
 	"SkirmishReplacements": {
-		"skirmish/units/default_cavalry": "units/mayap/infantry_blowgunner_b",
+		"skirmish/units/default_cavalry": "units/mayap/cavalry_javelineer_b",
+		"skirmish/units/special_starting_unit": "units/mayap/infantry_blowgunner_b",
 		"skirmish/units/default_infantry_ranged_b": "units/mayap/infantry_javelineer_b",
 		"skirmish/units/default_infantry_melee_b": "units/mayap/infantry_axeman_b",
 		"skirmish/structures/default_house_10": "structures/{civ}/house",
