@@ -1,9 +1,9 @@
 {
-	"genericName": "Incendiary weapons",
+	"genericName": "Incendiary  weapons",
 	"description": "",
 	"cost": {
-		"food": 1000,
-		"wood": 1000
+		"metal": 100,
+		"wood": 700
 	},
 	"requirements": {
 		"all": [
@@ -14,11 +14,9 @@
 	"requirementsTooltip": "Unlocked in City Phase.",
 	"icon": "incendiary_weapons.png",
 	"researchTime": 50,
-	"tooltip": "Ranged Soldiers +20% attack damage.",
+	"tooltip": "Bonus in Burning attack X3.",
 	"modifications": [
-		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 1.2 },
-		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.2 },
-		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 1.2 }
+		{ "value": "Attack/Ranged/ApplyStatus/Burning/Damage/Fire", "multiply": 3.0 }
 	],
 	"affects": ["Soldier"],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
