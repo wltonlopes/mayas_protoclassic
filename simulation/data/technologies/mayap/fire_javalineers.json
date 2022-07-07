@@ -1,18 +1,18 @@
 {
-	"genericName": "Poison Arrows",
+	"genericName": "Incendiary weapons",
 	"description": "",
 	"cost": {
-		"food": 1200,
-		"wood": 1200
+		"food": 1000,
+		"wood": 1000
 	},
 	"requirements": {
 		"all": [
 			{ "tech": "phase_city" },
-			{ "civ": "han" }
+			{ "civ": "mayap" }
 		]
 	},
 	"requirementsTooltip": "Unlocked in City Phase.",
-	"icon": "arrow_poison.png",
+	"icon": "incendiary_weapons.png",
 	"researchTime": 50,
 	"tooltip": "Ranged Soldiers +20% attack damage.",
 	"modifications": [
