@@ -19,6 +19,18 @@
       units/{civ}/cavalry_spearman_merc_b -->
     </Entities>
   </Trainer>
+  <Upgrade>
+    <CivilCenter>
+      <Entity>structures/mayap/civil_centre</Entity>
+      <Tooltip>Upgrade to civil centre.</Tooltip>
+      <Cost>
+        <wood>250</wood>
+        <food>250</food>
+      </Cost>
+      <Time>60</Time>
+      <Variant>upgrading</Variant>
+    </CivilCenter>
+  </Upgrade>
   <VisualActor>
     <Actor>structures/maya_protoclassic/cc_n_monumental.xml</Actor>
     <FoundationActor>structures/fndn_9x9.xml</FoundationActor>

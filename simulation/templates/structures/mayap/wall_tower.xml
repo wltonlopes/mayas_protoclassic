@@ -22,7 +22,7 @@
     <stone>0</stone>
   </Loot>
   <Obstruction>
-    <Static width="7" depth="7"/>
+    <Static width="9" depth="9"/>
   </Obstruction>
   <StatusBars>
     <HeightOffset>21</HeightOffset>
@@ -31,6 +31,6 @@
     <Actor>structures/maya_protoclassic/wall_tower.xml</Actor>
   </VisualActor>
   <WallPiece>
-    <Length>7</Length>
+    <Length>10</Length>
   </WallPiece>
 </Entity>
